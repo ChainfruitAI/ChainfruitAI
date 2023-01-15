@@ -1,0 +1,863 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="502" height="1855.19" viewBox="0 0 502 1855.19">
+  <g id="Blog_Article" data-name="Blog Article" transform="translate(0.25 0.25)">
+    <g id="Group_3984" data-name="Group 3984">
+      <rect id="Rectangle_1273" data-name="Rectangle 1273" width="141.104" height="27.334" transform="translate(125.833 1411.655)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectangle_1274" data-name="Rectangle 1274" width="141.104" height="27.334" transform="translate(72.278 1451.632)" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectangle_1275" data-name="Rectangle 1275" width="93.497" height="27.334" transform="translate(231.626 1451.632)" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectangle_1276" data-name="Rectangle 1276" width="66.896" height="27.334" transform="translate(285.181 1411.655)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_970" data-name="Path 970" d="M.75,1411.655H107.589v27.334H.75" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_971" data-name="Path 971" d="M.75,1451.632H54.033v27.334H.75" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_972" data-name="Path 972" d="M500.75,1438.989H370.32v-27.334H500.75" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_973" data-name="Path 973" d="M500.75,1478.966H343.367v-27.334H500.75" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_3992" data-name="Group 3992">
+      <g id="Group_539" data-name="Group 539">
+        <g id="Group_537" data-name="Group 537">
+          <path id="Path_178" data-name="Path 178" d="M344.551,1653.94v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h200.1v-50Z" fill="none"/>
+        </g>
+        <g id="Group_538" data-name="Group 538">
+          <path id="Path_179" data-name="Path 179" d="M344.551,1653.94v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h200.1v-50Z" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_542" data-name="Group 542">
+        <g id="Group_540" data-name="Group 540">
+          <path id="Path_180" data-name="Path 180" d="M244.551,1647.64v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2H.851v100h250v-6.3Z" fill="none"/>
+        </g>
+        <g id="Group_541" data-name="Group 541">
+          <path id="Path_181" data-name="Path 181" d="M244.551,1647.64v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2h-6.2v-6.3h-6.3v-6.2H.851v100h250v-6.3Z" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <path id="Path_402" data-name="Path 402" d="M200.951,1703.94v-25a25.009,25.009,0,0,0-25,25Z" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Path_182" data-name="Path 182" d="M75.851,1678.84a25,25,0,1,0,25,25A25,25,0,0,0,75.851,1678.84Zm0,31.3a6.3,6.3,0,1,1,6.3-6.3A6.3,6.3,0,0,1,75.851,1710.14Z" fill="#72caca"/>
+      <path id="Path_183" data-name="Path 183" d="M257.151,1703.84h0a6.253,6.253,0,0,1-6.2,6.3,6.338,6.338,0,0,1-6.3-6.3h-43.8v25h100v-25Z" fill="#72caca"/>
+      <path id="Path_184" data-name="Path 184" d="M50.851,1503.94v25h-25a25,25,0,1,0,25-25Z" fill="#72caca"/>
+      <path id="Path_185" data-name="Path 185" d="M144.551,1797.64v-6.2h-6.3v-6.3h-6.2v-6.2h-6.3v-6.2h-6.3v-6.2h-6.3v-6.4h-6.1v-6.3H.751v50h150v-6.2Zm-68.8-6.2a12.5,12.5,0,1,1,12.5-12.5h0A12.5,12.5,0,0,1,75.751,1791.44Z" fill="#72caca"/>
+      <g id="Group_544" data-name="Group 544">
+        <g id="Group_543" data-name="Group 543">
+          <path id="Path_186" data-name="Path 186" d="M319.951,1622.64v-6.3h-6.2v-6.2h-6.3v-6.3h-6.3v-6.3h-6.3v-6.2h-6.3v-6.2h-6.3v-6.3h-106.1a50.018,50.018,0,0,0,50,50h100v-6.2Z" fill="#72caca"/>
+        </g>
+      </g>
+      <g id="Group_546" data-name="Group 546">
+        <g id="Group_545" data-name="Group 545">
+          <path id="Path_187" data-name="Path 187" d="M469.551,1678.84v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h-6.3v6.3h-6.2v6.2h75v-50Z" fill="#72caca"/>
+        </g>
+      </g>
+      <path id="Path_188" data-name="Path 188" d="M425.551,1603.94a25,25,0,1,0,25,25h0A25.009,25.009,0,0,0,425.551,1603.94Zm0,37.5a12.5,12.5,0,1,1,12.5-12.5,12.5,12.5,0,0,1-12.5,12.5Z" fill="#72caca"/>
+      <line id="Line_1619" data-name="Line 1619" x2="21.1" transform="translate(188.751 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1620" data-name="Line 1620" x2="8.1" transform="translate(215.751 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1621" data-name="Line 1621" x2="9.9" transform="translate(229.851 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1622" data-name="Line 1622" x2="12.8" transform="translate(245.65 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1623" data-name="Line 1623" x2="21.1" transform="translate(264.451 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1624" data-name="Line 1624" x2="20.3" transform="translate(291.551 1772.74)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1625" data-name="Line 1625" x2="16.8" transform="translate(203.351 1785.84)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1626" data-name="Line 1626" x2="12.7" transform="translate(226.051 1785.84)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1627" data-name="Line 1627" x2="28" transform="translate(244.65 1785.84)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1628" data-name="Line 1628" x2="18.6" transform="translate(278.65 1785.84)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1629" data-name="Line 1629" x2="16.4" transform="translate(228.051 1716.84)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1630" data-name="Line 1630" x2="5.1" transform="translate(248.751 1716.84)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_1631" data-name="Line 1631" x2="14.2" transform="translate(258.251 1716.84)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <g id="Group_549" data-name="Group 549">
+        <g id="Group_547" data-name="Group 547">
+          <line id="Line_1632" data-name="Line 1632" x2="11.5" transform="translate(50.851 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1633" data-name="Line 1633" x2="3.3" transform="translate(65.651 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1634" data-name="Line 1634" x2="12.1" transform="translate(92.851 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1635" data-name="Line 1635" x2="9" transform="translate(72.251 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1636" data-name="Line 1636" x2="4.9" transform="translate(120.651 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1637" data-name="Line 1637" x2="9" transform="translate(108.251 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_548" data-name="Group 548">
+          <line id="Line_1638" data-name="Line 1638" x2="11.6" transform="translate(396.651 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1639" data-name="Line 1639" x2="12.1" transform="translate(438.751 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_1640" data-name="Line 1640" x2="9.1" transform="translate(419.051 1838.04)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <rect id="Rectangle_247" data-name="Rectangle 247" width="27.9" height="5.2" transform="translate(235.851 1835.44)" fill="#616d7f"/>
+      </g>
+    </g>
+    <g id="Group_3864" data-name="Group 3864">
+      <line id="Line_11457" data-name="Line 11457" x2="8.482" transform="translate(442.607 24.038)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_1256" data-name="Rectangle 1256" width="27.852" height="5.196" transform="translate(51.09 21.44)" fill="#616d7f"/>
+    </g>
+    <g id="Group_3983" data-name="Group 3983">
+      <rect id="Rectangle_1257" data-name="Rectangle 1257" width="400" height="1303.095" transform="translate(50.75 50.75)" fill="#fff" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      <g id="Group_3868" data-name="Group 3868">
+        <rect id="Rectangle_1258" data-name="Rectangle 1258" width="34.791" height="3.927" transform="translate(233.047 84.957)" fill="#72caca"/>
+        <g id="Group_3867" data-name="Group 3867">
+          <g id="Group_3865" data-name="Group 3865">
+            <line id="Line_11458" data-name="Line 11458" x2="6.963" transform="translate(269.631 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11459" data-name="Line 11459" x2="8.498" transform="translate(281.698 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11460" data-name="Line 11460" x2="10.976" transform="translate(295.301 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11461" data-name="Line 11461" x2="26.166" transform="translate(311.382 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11462" data-name="Line 11462" x1="26.166" transform="translate(163.337 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11463" data-name="Line 11463" x1="20.607" transform="translate(194.608 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11464" data-name="Line 11464" x1="44.206" transform="translate(220.319 102.243)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3866" data-name="Group 3866">
+            <line id="Line_11465" data-name="Line 11465" x2="20.882" transform="translate(259.422 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11466" data-name="Line 11466" x2="7.993" transform="translate(285.409 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11467" data-name="Line 11467" x2="21.94" transform="translate(298.507 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11468" data-name="Line 11468" x1="10.857" transform="translate(209.577 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11469" data-name="Line 11469" x1="24.033" transform="translate(180.439 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11470" data-name="Line 11470" x1="28.78" transform="translate(225.538 114.295)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3877" data-name="Group 3877">
+        <line id="Line_11471" data-name="Line 11471" x2="359.9" transform="translate(70.8 133.103)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <g id="Group_3869" data-name="Group 3869">
+          <line id="Line_11472" data-name="Line 11472" x2="12.954" transform="translate(70.8 138.712)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11473" data-name="Line 11473" x2="3.73" transform="translate(85.992 138.712)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11474" data-name="Line 11474" x2="5.157" transform="translate(92.259 138.712)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3876" data-name="Group 3876">
+          <g id="Group_3872" data-name="Group 3872">
+            <g id="Group_3870" data-name="Group 3870">
+              <line id="Line_11475" data-name="Line 11475" x2="1.504" transform="translate(426.188 138.712)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3871" data-name="Group 3871">
+              <line id="Line_11476" data-name="Line 11476" x2="1.504" transform="translate(429.196 138.712)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+          <g id="Group_3875" data-name="Group 3875">
+            <g id="Group_3873" data-name="Group 3873">
+              <line id="Line_11477" data-name="Line 11477" x2="1.504" transform="translate(426.188 141.719)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3874" data-name="Group 3874">
+              <line id="Line_11478" data-name="Line 11478" x2="1.504" transform="translate(429.196 141.719)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3885" data-name="Group 3885">
+        <g id="Group_3879" data-name="Group 3879">
+          <g id="Group_3878" data-name="Group 3878">
+            <line id="Line_11479" data-name="Line 11479" x2="19.223" transform="translate(144.928 157.52)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11480" data-name="Line 11480" x2="14.503" transform="translate(170.97 157.52)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11481" data-name="Line 11481" x2="32.105" transform="translate(192.292 157.52)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11482" data-name="Line 11482" x2="21.273" transform="translate(231.215 157.52)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11483" data-name="Line 11483" x2="11.872" transform="translate(259.307 157.52)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3884" data-name="Group 3884">
+          <g id="Group_3880" data-name="Group 3880">
+            <line id="Line_11484" data-name="Line 11484" x2="16.034" transform="translate(144.928 198.93)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11485" data-name="Line 11485" x2="7.024" transform="translate(163.94 198.93)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3881" data-name="Group 3881">
+            <line id="Line_11486" data-name="Line 11486" x2="11.845" transform="translate(144.928 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11487" data-name="Line 11487" x2="8.504" transform="translate(159.75 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11488" data-name="Line 11488" x2="3.184" transform="translate(171.232 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11489" data-name="Line 11489" x2="11.53" transform="translate(177.394 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11490" data-name="Line 11490" x2="3.376" transform="translate(191.9 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11491" data-name="Line 11491" x2="8.913" transform="translate(198.255 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11492" data-name="Line 11492" x2="7.832" transform="translate(210.146 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11493" data-name="Line 11493" x2="11.845" transform="translate(220.955 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11494" data-name="Line 11494" x2="16.809" transform="translate(326.314 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11495" data-name="Line 11495" x2="11.845" transform="translate(296.983 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11496" data-name="Line 11496" x2="8.504" transform="translate(235.778 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11497" data-name="Line 11497" x2="3.182" transform="translate(247.261 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11498" data-name="Line 11498" x2="11.53" transform="translate(253.422 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11499" data-name="Line 11499" x2="3.376" transform="translate(267.929 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11500" data-name="Line 11500" x2="11.53" transform="translate(311.807 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11501" data-name="Line 11501" x2="8.913" transform="translate(274.283 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11502" data-name="Line 11502" x2="7.832" transform="translate(286.174 169.61)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3882" data-name="Group 3882">
+            <line id="Line_11503" data-name="Line 11503" x2="13.842" transform="translate(144.928 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11504" data-name="Line 11504" x2="8.389" transform="translate(161.747 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11505" data-name="Line 11505" x2="7.26" transform="translate(173.113 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11506" data-name="Line 11506" x2="5.764" transform="translate(183.352 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11507" data-name="Line 11507" x2="8.979" transform="translate(192.094 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11508" data-name="Line 11508" x2="8.778" transform="translate(204.052 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11509" data-name="Line 11509" x2="9.881" transform="translate(215.808 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11510" data-name="Line 11510" x2="13.84" transform="translate(228.666 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11511" data-name="Line 11511" x2="13.84" transform="translate(312.404 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11512" data-name="Line 11512" x2="8.389" transform="translate(245.485 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11513" data-name="Line 11513" x2="7.26" transform="translate(256.852 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11514" data-name="Line 11514" x2="5.764" transform="translate(267.09 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11515" data-name="Line 11515" x2="8.98" transform="translate(275.832 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11516" data-name="Line 11516" x2="8.777" transform="translate(287.791 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11517" data-name="Line 11517" x2="9.881" transform="translate(299.546 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11518" data-name="Line 11518" x2="9.881" transform="translate(329.224 189.233)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3883" data-name="Group 3883">
+            <line id="Line_11519" data-name="Line 11519" x2="19.481" transform="translate(144.928 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11520" data-name="Line 11520" x2="11.599" transform="translate(167.387 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11521" data-name="Line 11521" x2="4.591" transform="translate(181.964 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11522" data-name="Line 11522" x2="10.195" transform="translate(189.533 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11523" data-name="Line 11523" x2="14.186" transform="translate(202.707 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11524" data-name="Line 11524" x2="19.481" transform="translate(219.87 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11525" data-name="Line 11525" x2="11.599" transform="translate(242.33 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11526" data-name="Line 11526" x2="4.591" transform="translate(256.907 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11527" data-name="Line 11527" x2="19.481" transform="translate(294.813 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11528" data-name="Line 11528" x2="11.599" transform="translate(317.273 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11529" data-name="Line 11529" x2="4.591" transform="translate(331.851 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11530" data-name="Line 11530" x2="10.196" transform="translate(264.476 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11531" data-name="Line 11531" x2="14.186" transform="translate(277.649 179.422)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3892" data-name="Group 3892">
+        <g id="Group_3890" data-name="Group 3890">
+          <g id="Group_3886" data-name="Group 3886">
+            <line id="Line_11532" data-name="Line 11532" x2="16.034" transform="translate(144.928 696.452)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11533" data-name="Line 11533" x2="7.024" transform="translate(163.94 696.452)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3887" data-name="Group 3887">
+            <line id="Line_11534" data-name="Line 11534" x2="11.845" transform="translate(144.928 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11535" data-name="Line 11535" x2="8.504" transform="translate(159.75 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11536" data-name="Line 11536" x2="3.184" transform="translate(171.232 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11537" data-name="Line 11537" x2="11.53" transform="translate(177.394 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11538" data-name="Line 11538" x2="3.376" transform="translate(191.9 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11539" data-name="Line 11539" x2="8.913" transform="translate(198.255 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11540" data-name="Line 11540" x2="7.832" transform="translate(210.146 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11541" data-name="Line 11541" x2="11.845" transform="translate(220.955 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11542" data-name="Line 11542" x2="16.809" transform="translate(326.314 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11543" data-name="Line 11543" x2="11.845" transform="translate(296.983 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11544" data-name="Line 11544" x2="8.504" transform="translate(235.778 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11545" data-name="Line 11545" x2="3.182" transform="translate(247.261 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11546" data-name="Line 11546" x2="11.53" transform="translate(253.422 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11547" data-name="Line 11547" x2="3.376" transform="translate(267.929 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11548" data-name="Line 11548" x2="11.53" transform="translate(311.807 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11549" data-name="Line 11549" x2="8.913" transform="translate(274.283 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11550" data-name="Line 11550" x2="7.832" transform="translate(286.174 667.132)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3888" data-name="Group 3888">
+            <line id="Line_11551" data-name="Line 11551" x2="13.842" transform="translate(144.928 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11552" data-name="Line 11552" x2="8.389" transform="translate(161.747 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11553" data-name="Line 11553" x2="7.26" transform="translate(173.113 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11554" data-name="Line 11554" x2="5.764" transform="translate(183.352 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11555" data-name="Line 11555" x2="8.979" transform="translate(192.094 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11556" data-name="Line 11556" x2="8.778" transform="translate(204.052 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11557" data-name="Line 11557" x2="9.881" transform="translate(215.808 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11558" data-name="Line 11558" x2="13.84" transform="translate(228.666 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11559" data-name="Line 11559" x2="13.84" transform="translate(312.404 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11560" data-name="Line 11560" x2="8.389" transform="translate(245.485 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11561" data-name="Line 11561" x2="7.26" transform="translate(256.852 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11562" data-name="Line 11562" x2="5.764" transform="translate(267.09 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11563" data-name="Line 11563" x2="8.98" transform="translate(275.832 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11564" data-name="Line 11564" x2="8.777" transform="translate(287.791 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11565" data-name="Line 11565" x2="9.881" transform="translate(299.546 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11566" data-name="Line 11566" x2="9.881" transform="translate(329.224 686.755)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3889" data-name="Group 3889">
+            <line id="Line_11567" data-name="Line 11567" x2="19.481" transform="translate(144.928 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11568" data-name="Line 11568" x2="11.599" transform="translate(167.387 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11569" data-name="Line 11569" x2="4.591" transform="translate(181.964 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11570" data-name="Line 11570" x2="10.195" transform="translate(189.533 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11571" data-name="Line 11571" x2="14.186" transform="translate(202.707 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11572" data-name="Line 11572" x2="19.481" transform="translate(219.87 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11573" data-name="Line 11573" x2="11.599" transform="translate(242.33 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11574" data-name="Line 11574" x2="4.591" transform="translate(256.907 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11575" data-name="Line 11575" x2="19.481" transform="translate(294.813 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11576" data-name="Line 11576" x2="11.599" transform="translate(317.273 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11577" data-name="Line 11577" x2="4.591" transform="translate(331.851 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11578" data-name="Line 11578" x2="10.196" transform="translate(264.476 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11579" data-name="Line 11579" x2="14.186" transform="translate(277.649 676.944)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3891" data-name="Group 3891">
+          <line id="Line_11580" data-name="Line 11580" x2="14.39" transform="translate(144.928 655.042)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11581" data-name="Line 11581" x2="10.857" transform="translate(164.422 655.042)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11582" data-name="Line 11582" x2="24.033" transform="translate(180.383 655.042)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3899" data-name="Group 3899">
+        <g id="Group_3897" data-name="Group 3897">
+          <g id="Group_3893" data-name="Group 3893">
+            <line id="Line_11583" data-name="Line 11583" x2="16.034" transform="translate(144.928 804.046)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11584" data-name="Line 11584" x2="7.024" transform="translate(163.94 804.046)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3894" data-name="Group 3894">
+            <line id="Line_11585" data-name="Line 11585" x2="11.845" transform="translate(144.928 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11586" data-name="Line 11586" x2="8.504" transform="translate(159.75 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11587" data-name="Line 11587" x2="3.184" transform="translate(171.232 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11588" data-name="Line 11588" x2="11.53" transform="translate(177.394 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11589" data-name="Line 11589" x2="3.376" transform="translate(191.9 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11590" data-name="Line 11590" x2="8.913" transform="translate(198.255 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11591" data-name="Line 11591" x2="7.832" transform="translate(210.146 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11592" data-name="Line 11592" x2="11.845" transform="translate(220.955 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11593" data-name="Line 11593" x2="16.809" transform="translate(326.314 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11594" data-name="Line 11594" x2="11.845" transform="translate(296.983 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11595" data-name="Line 11595" x2="8.504" transform="translate(235.778 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11596" data-name="Line 11596" x2="3.182" transform="translate(247.261 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11597" data-name="Line 11597" x2="11.53" transform="translate(253.422 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11598" data-name="Line 11598" x2="3.376" transform="translate(267.929 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11599" data-name="Line 11599" x2="11.53" transform="translate(311.807 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11600" data-name="Line 11600" x2="8.913" transform="translate(274.283 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11601" data-name="Line 11601" x2="7.832" transform="translate(286.174 774.725)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3895" data-name="Group 3895">
+            <line id="Line_11602" data-name="Line 11602" x2="13.842" transform="translate(144.928 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11603" data-name="Line 11603" x2="8.389" transform="translate(161.747 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11604" data-name="Line 11604" x2="7.26" transform="translate(173.113 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11605" data-name="Line 11605" x2="5.764" transform="translate(183.352 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11606" data-name="Line 11606" x2="8.979" transform="translate(192.094 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11607" data-name="Line 11607" x2="8.778" transform="translate(204.052 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11608" data-name="Line 11608" x2="9.881" transform="translate(215.808 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11609" data-name="Line 11609" x2="13.84" transform="translate(228.666 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11610" data-name="Line 11610" x2="13.84" transform="translate(312.404 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11611" data-name="Line 11611" x2="8.389" transform="translate(245.485 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11612" data-name="Line 11612" x2="7.26" transform="translate(256.852 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11613" data-name="Line 11613" x2="5.764" transform="translate(267.09 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11614" data-name="Line 11614" x2="8.98" transform="translate(275.832 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11615" data-name="Line 11615" x2="8.777" transform="translate(287.791 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11616" data-name="Line 11616" x2="9.881" transform="translate(299.546 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11617" data-name="Line 11617" x2="9.881" transform="translate(329.224 794.349)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3896" data-name="Group 3896">
+            <line id="Line_11618" data-name="Line 11618" x2="19.481" transform="translate(144.928 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11619" data-name="Line 11619" x2="11.599" transform="translate(167.387 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11620" data-name="Line 11620" x2="4.591" transform="translate(181.964 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11621" data-name="Line 11621" x2="10.195" transform="translate(189.533 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11622" data-name="Line 11622" x2="14.186" transform="translate(202.707 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11623" data-name="Line 11623" x2="19.481" transform="translate(219.87 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11624" data-name="Line 11624" x2="11.599" transform="translate(242.33 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11625" data-name="Line 11625" x2="4.591" transform="translate(256.907 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11626" data-name="Line 11626" x2="19.481" transform="translate(294.813 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11627" data-name="Line 11627" x2="11.599" transform="translate(317.273 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11628" data-name="Line 11628" x2="4.591" transform="translate(331.851 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11629" data-name="Line 11629" x2="10.196" transform="translate(264.476 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11630" data-name="Line 11630" x2="14.186" transform="translate(277.649 784.537)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3898" data-name="Group 3898">
+          <line id="Line_11631" data-name="Line 11631" x2="14.39" transform="translate(144.928 762.636)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11632" data-name="Line 11632" x2="10.857" transform="translate(164.422 762.636)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11633" data-name="Line 11633" x2="24.033" transform="translate(180.383 762.636)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3904" data-name="Group 3904">
+        <g id="Group_3903" data-name="Group 3903">
+          <g id="Group_3900" data-name="Group 3900">
+            <line id="Line_11634" data-name="Line 11634" x2="11.845" transform="translate(156.957 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11635" data-name="Line 11635" x2="8.504" transform="translate(171.78 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11636" data-name="Line 11636" x2="3.184" transform="translate(183.262 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11637" data-name="Line 11637" x2="11.53" transform="translate(189.424 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11638" data-name="Line 11638" x2="3.376" transform="translate(203.931 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11639" data-name="Line 11639" x2="8.913" transform="translate(210.285 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11640" data-name="Line 11640" x2="7.832" transform="translate(222.175 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11641" data-name="Line 11641" x2="11.845" transform="translate(232.985 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11642" data-name="Line 11642" x2="11.845" transform="translate(309.014 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11643" data-name="Line 11643" x2="8.504" transform="translate(247.809 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11644" data-name="Line 11644" x2="3.182" transform="translate(259.29 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11645" data-name="Line 11645" x2="11.53" transform="translate(265.452 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11646" data-name="Line 11646" x2="3.376" transform="translate(279.959 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11647" data-name="Line 11647" x2="8.913" transform="translate(286.313 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11648" data-name="Line 11648" x2="7.832" transform="translate(298.203 719.732)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3901" data-name="Group 3901">
+            <line id="Line_11649" data-name="Line 11649" x2="13.842" transform="translate(156.957 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11650" data-name="Line 11650" x2="8.389" transform="translate(173.777 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11651" data-name="Line 11651" x2="7.26" transform="translate(185.144 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11652" data-name="Line 11652" x2="5.764" transform="translate(195.382 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11653" data-name="Line 11653" x2="8.979" transform="translate(204.124 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11654" data-name="Line 11654" x2="8.778" transform="translate(216.082 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11655" data-name="Line 11655" x2="9.881" transform="translate(227.837 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11656" data-name="Line 11656" x2="13.84" transform="translate(240.696 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11657" data-name="Line 11657" x2="8.389" transform="translate(257.516 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11658" data-name="Line 11658" x2="7.26" transform="translate(268.882 739.356)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3902" data-name="Group 3902">
+            <line id="Line_11659" data-name="Line 11659" x2="19.481" transform="translate(156.957 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11660" data-name="Line 11660" x2="11.599" transform="translate(179.417 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11661" data-name="Line 11661" x2="4.591" transform="translate(193.994 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11662" data-name="Line 11662" x2="10.195" transform="translate(201.563 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11663" data-name="Line 11663" x2="14.186" transform="translate(214.736 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11664" data-name="Line 11664" x2="19.481" transform="translate(231.9 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11665" data-name="Line 11665" x2="11.599" transform="translate(254.36 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11666" data-name="Line 11666" x2="4.591" transform="translate(268.938 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11667" data-name="Line 11667" x2="19.481" transform="translate(306.844 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11668" data-name="Line 11668" x2="11.599" transform="translate(329.303 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11669" data-name="Line 11669" x2="10.196" transform="translate(276.506 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11670" data-name="Line 11670" x2="14.186" transform="translate(289.68 729.544)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <line id="Line_11671" data-name="Line 11671" y2="35.708" transform="translate(144.928 711.69)" fill="none" stroke="#72caca" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+      <g id="Group_3907" data-name="Group 3907">
+        <g id="Group_3905" data-name="Group 3905">
+          <rect id="Rectangle_1259" data-name="Rectangle 1259" width="173.892" height="173.892" transform="translate(71.074 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11672" data-name="Line 11672" x2="173.892" y2="173.892" transform="translate(71.074 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11673" data-name="Line 11673" x1="173.892" y2="173.892" transform="translate(71.074 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <line id="Line_11674" data-name="Line 11674" x2="173.892" y2="80.975" transform="translate(257.083 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_11675" data-name="Line 11675" x1="173.892" y2="80.975" transform="translate(257.083 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_11676" data-name="Line 11676" x2="173.892" y2="80.975" transform="translate(257.083 912.2)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_11677" data-name="Line 11677" x1="173.892" y2="80.975" transform="translate(257.083 912.2)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <g id="Group_3906" data-name="Group 3906">
+          <rect id="Rectangle_1260" data-name="Rectangle 1260" width="173.892" height="80.975" transform="translate(257.083 819.284)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <rect id="Rectangle_1261" data-name="Rectangle 1261" width="173.892" height="80.975" transform="translate(257.083 912.2)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3912" data-name="Group 3912">
+        <g id="Group_3908" data-name="Group 3908">
+          <line id="Line_11678" data-name="Line 11678" x2="16.034" transform="translate(144.928 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11679" data-name="Line 11679" x2="11.034" transform="translate(163.94 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11680" data-name="Line 11680" x2="4.768" transform="translate(177.952 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11681" data-name="Line 11681" x2="13.891" transform="translate(185.698 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11682" data-name="Line 11682" x2="7.825" transform="translate(202.567 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11683" data-name="Line 11683" x2="16.409" transform="translate(213.371 1049.823)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3909" data-name="Group 3909">
+          <line id="Line_11684" data-name="Line 11684" x2="11.845" transform="translate(144.928 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11685" data-name="Line 11685" x2="8.504" transform="translate(159.75 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11686" data-name="Line 11686" x2="3.184" transform="translate(171.232 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11687" data-name="Line 11687" x2="11.53" transform="translate(177.394 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11688" data-name="Line 11688" x2="3.376" transform="translate(191.9 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11689" data-name="Line 11689" x2="8.913" transform="translate(198.255 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11690" data-name="Line 11690" x2="7.832" transform="translate(210.146 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11691" data-name="Line 11691" x2="11.845" transform="translate(220.955 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11692" data-name="Line 11692" x2="16.809" transform="translate(326.314 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11693" data-name="Line 11693" x2="11.845" transform="translate(296.983 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11694" data-name="Line 11694" x2="8.504" transform="translate(235.778 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11695" data-name="Line 11695" x2="3.182" transform="translate(247.261 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11696" data-name="Line 11696" x2="11.53" transform="translate(253.422 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11697" data-name="Line 11697" x2="3.376" transform="translate(267.929 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11698" data-name="Line 11698" x2="11.53" transform="translate(311.807 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11699" data-name="Line 11699" x2="8.913" transform="translate(274.283 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11700" data-name="Line 11700" x2="7.832" transform="translate(286.174 1020.503)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3910" data-name="Group 3910">
+          <line id="Line_11701" data-name="Line 11701" x2="13.842" transform="translate(144.928 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11702" data-name="Line 11702" x2="8.389" transform="translate(161.747 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11703" data-name="Line 11703" x2="7.26" transform="translate(173.113 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11704" data-name="Line 11704" x2="5.764" transform="translate(183.352 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11705" data-name="Line 11705" x2="8.979" transform="translate(192.094 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11706" data-name="Line 11706" x2="8.778" transform="translate(204.052 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11707" data-name="Line 11707" x2="9.881" transform="translate(215.808 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11708" data-name="Line 11708" x2="13.84" transform="translate(228.666 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11709" data-name="Line 11709" x2="13.84" transform="translate(312.404 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11710" data-name="Line 11710" x2="8.389" transform="translate(245.485 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11711" data-name="Line 11711" x2="7.26" transform="translate(256.852 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11712" data-name="Line 11712" x2="5.764" transform="translate(267.09 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11713" data-name="Line 11713" x2="8.98" transform="translate(275.832 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11714" data-name="Line 11714" x2="8.777" transform="translate(287.791 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11715" data-name="Line 11715" x2="9.881" transform="translate(299.546 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11716" data-name="Line 11716" x2="9.881" transform="translate(329.224 1040.126)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3911" data-name="Group 3911">
+          <line id="Line_11717" data-name="Line 11717" x2="19.481" transform="translate(144.928 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11718" data-name="Line 11718" x2="11.599" transform="translate(167.387 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11719" data-name="Line 11719" x2="4.591" transform="translate(181.964 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11720" data-name="Line 11720" x2="10.195" transform="translate(189.533 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11721" data-name="Line 11721" x2="14.186" transform="translate(202.707 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11722" data-name="Line 11722" x2="19.481" transform="translate(219.87 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11723" data-name="Line 11723" x2="11.599" transform="translate(242.33 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11724" data-name="Line 11724" x2="4.591" transform="translate(256.907 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11725" data-name="Line 11725" x2="19.481" transform="translate(294.813 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11726" data-name="Line 11726" x2="11.599" transform="translate(317.273 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11727" data-name="Line 11727" x2="4.591" transform="translate(331.851 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11728" data-name="Line 11728" x2="10.196" transform="translate(264.476 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11729" data-name="Line 11729" x2="14.186" transform="translate(277.649 1030.315)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3916" data-name="Group 3916">
+        <g id="Group_3913" data-name="Group 3913">
+          <line id="Line_11730" data-name="Line 11730" x2="11.845" transform="translate(152.947 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11731" data-name="Line 11731" x2="8.504" transform="translate(167.771 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11732" data-name="Line 11732" x2="3.184" transform="translate(179.252 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11733" data-name="Line 11733" x2="11.53" transform="translate(185.413 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11734" data-name="Line 11734" x2="3.376" transform="translate(199.921 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11735" data-name="Line 11735" x2="8.913" transform="translate(206.274 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11736" data-name="Line 11736" x2="15.852" transform="translate(218.165 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3914" data-name="Group 3914">
+          <line id="Line_11737" data-name="Line 11737" x2="13.842" transform="translate(152.947 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11738" data-name="Line 11738" x2="8.389" transform="translate(169.767 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11739" data-name="Line 11739" x2="7.26" transform="translate(181.134 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11740" data-name="Line 11740" x2="5.764" transform="translate(191.371 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11741" data-name="Line 11741" x2="8.979" transform="translate(200.114 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11742" data-name="Line 11742" x2="8.778" transform="translate(212.071 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11743" data-name="Line 11743" x2="9.881" transform="translate(223.827 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11744" data-name="Line 11744" x2="13.84" transform="translate(236.687 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3915" data-name="Group 3915">
+          <line id="Line_11745" data-name="Line 11745" x2="19.481" transform="translate(152.947 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11746" data-name="Line 11746" x2="11.599" transform="translate(175.407 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11747" data-name="Line 11747" x2="4.591" transform="translate(189.984 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11748" data-name="Line 11748" x2="10.195" transform="translate(197.553 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11749" data-name="Line 11749" x2="14.186" transform="translate(210.727 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11750" data-name="Line 11750" x2="19.481" transform="translate(227.891 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <line id="Line_11751" data-name="Line 11751" x1="1.504" transform="translate(146.933 1077.15)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_11752" data-name="Line 11752" x1="1.504" transform="translate(146.933 1088.967)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <line id="Line_11753" data-name="Line 11753" x1="1.504" transform="translate(146.933 1100.784)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+      <g id="Group_3925" data-name="Group 3925">
+        <g id="Group_3917" data-name="Group 3917">
+          <line id="Line_11754" data-name="Line 11754" x2="12.954" transform="translate(286.237 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11755" data-name="Line 11755" x2="3.73" transform="translate(301.431 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11756" data-name="Line 11756" x2="5.157" transform="translate(307.696 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3918" data-name="Group 3918">
+          <line id="Line_11757" data-name="Line 11757" x2="4.934" transform="translate(286.237 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3919" data-name="Group 3919">
+          <line id="Line_11758" data-name="Line 11758" x2="4.934" transform="translate(296.106 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3920" data-name="Group 3920">
+          <line id="Line_11759" data-name="Line 11759" x2="4.934" transform="translate(305.975 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3921" data-name="Group 3921">
+          <line id="Line_11760" data-name="Line 11760" x2="4.934" transform="translate(315.844 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3922" data-name="Group 3922">
+          <line id="Line_11761" data-name="Line 11761" x2="12.954" transform="translate(189.988 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11762" data-name="Line 11762" x2="3.73" transform="translate(205.182 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11763" data-name="Line 11763" x2="5.157" transform="translate(211.447 1145.47)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3923" data-name="Group 3923">
+          <line id="Line_11764" data-name="Line 11764" x2="14.959" transform="translate(189.988 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11765" data-name="Line 11765" x2="15.76" transform="translate(207.187 1153.404)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3924" data-name="Group 3924">
+          <line id="Line_11766" data-name="Line 11766" x2="359.9" transform="translate(71.074 1116.022)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11767" data-name="Line 11767" x2="359.9" transform="translate(71.074 1185.574)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11768" data-name="Line 11768" y2="69.552" transform="translate(251.024 1116.022)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="19.235" cy="19.235" r="19.235" transform="translate(143.71 1131.563)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+      <g id="Group_3928" data-name="Group 3928">
+        <g id="Group_3926" data-name="Group 3926">
+          <rect id="Rectangle_1262" data-name="Rectangle 1262" width="212.194" height="123.304" transform="translate(144.928 214.167)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11769" data-name="Line 11769" x2="212.194" y2="123.304" transform="translate(144.928 214.168)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11770" data-name="Line 11770" x1="212.194" y2="123.304" transform="translate(144.928 214.168)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3927" data-name="Group 3927">
+          <line id="Line_11771" data-name="Line 11771" x2="12.954" transform="translate(144.928 343.081)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11772" data-name="Line 11772" x2="3.73" transform="translate(160.121 343.081)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11773" data-name="Line 11773" x2="5.157" transform="translate(166.387 343.081)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3935" data-name="Group 3935">
+        <g id="Group_3933" data-name="Group 3933">
+          <g id="Group_3929" data-name="Group 3929">
+            <line id="Line_11774" data-name="Line 11774" x2="16.034" transform="translate(144.928 399.729)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11775" data-name="Line 11775" x2="7.024" transform="translate(163.94 399.729)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3930" data-name="Group 3930">
+            <line id="Line_11776" data-name="Line 11776" x2="11.845" transform="translate(144.928 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11777" data-name="Line 11777" x2="8.504" transform="translate(159.75 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11778" data-name="Line 11778" x2="3.184" transform="translate(171.232 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11779" data-name="Line 11779" x2="11.53" transform="translate(177.394 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11780" data-name="Line 11780" x2="3.376" transform="translate(191.9 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11781" data-name="Line 11781" x2="8.913" transform="translate(198.255 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11782" data-name="Line 11782" x2="7.832" transform="translate(210.146 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11783" data-name="Line 11783" x2="11.845" transform="translate(220.955 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11784" data-name="Line 11784" x2="16.809" transform="translate(326.314 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11785" data-name="Line 11785" x2="11.845" transform="translate(296.983 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11786" data-name="Line 11786" x2="8.504" transform="translate(235.778 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11787" data-name="Line 11787" x2="3.182" transform="translate(247.261 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11788" data-name="Line 11788" x2="11.53" transform="translate(253.422 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11789" data-name="Line 11789" x2="3.376" transform="translate(267.929 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11790" data-name="Line 11790" x2="11.53" transform="translate(311.807 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11791" data-name="Line 11791" x2="8.913" transform="translate(274.283 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11792" data-name="Line 11792" x2="7.832" transform="translate(286.174 370.408)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3931" data-name="Group 3931">
+            <line id="Line_11793" data-name="Line 11793" x2="13.842" transform="translate(144.928 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11794" data-name="Line 11794" x2="8.389" transform="translate(161.747 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11795" data-name="Line 11795" x2="7.26" transform="translate(173.113 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11796" data-name="Line 11796" x2="5.764" transform="translate(183.352 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11797" data-name="Line 11797" x2="8.979" transform="translate(192.094 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11798" data-name="Line 11798" x2="8.778" transform="translate(204.052 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11799" data-name="Line 11799" x2="9.881" transform="translate(215.808 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11800" data-name="Line 11800" x2="13.84" transform="translate(228.666 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11801" data-name="Line 11801" x2="13.84" transform="translate(312.404 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11802" data-name="Line 11802" x2="8.389" transform="translate(245.485 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11803" data-name="Line 11803" x2="7.26" transform="translate(256.852 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11804" data-name="Line 11804" x2="5.764" transform="translate(267.09 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11805" data-name="Line 11805" x2="8.98" transform="translate(275.832 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11806" data-name="Line 11806" x2="8.777" transform="translate(287.791 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11807" data-name="Line 11807" x2="9.881" transform="translate(299.546 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11808" data-name="Line 11808" x2="9.881" transform="translate(329.224 390.032)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3932" data-name="Group 3932">
+            <line id="Line_11809" data-name="Line 11809" x2="19.481" transform="translate(144.928 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11810" data-name="Line 11810" x2="11.599" transform="translate(167.387 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11811" data-name="Line 11811" x2="4.591" transform="translate(181.964 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11812" data-name="Line 11812" x2="10.195" transform="translate(189.533 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11813" data-name="Line 11813" x2="14.186" transform="translate(202.707 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11814" data-name="Line 11814" x2="19.481" transform="translate(219.87 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11815" data-name="Line 11815" x2="11.599" transform="translate(242.33 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11816" data-name="Line 11816" x2="4.591" transform="translate(256.907 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11817" data-name="Line 11817" x2="19.481" transform="translate(294.813 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11818" data-name="Line 11818" x2="11.599" transform="translate(317.273 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11819" data-name="Line 11819" x2="4.591" transform="translate(331.851 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11820" data-name="Line 11820" x2="10.196" transform="translate(264.476 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11821" data-name="Line 11821" x2="14.186" transform="translate(277.649 380.22)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3934" data-name="Group 3934">
+          <line id="Line_11822" data-name="Line 11822" x2="14.39" transform="translate(144.928 358.319)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11823" data-name="Line 11823" x2="10.857" transform="translate(164.422 358.319)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11824" data-name="Line 11824" x2="24.033" transform="translate(180.383 358.319)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3940" data-name="Group 3940">
+        <g id="Group_3939" data-name="Group 3939">
+          <g id="Group_3936" data-name="Group 3936">
+            <line id="Line_11825" data-name="Line 11825" x2="11.845" transform="translate(156.957 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11826" data-name="Line 11826" x2="8.504" transform="translate(171.78 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11827" data-name="Line 11827" x2="3.184" transform="translate(183.262 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11828" data-name="Line 11828" x2="11.53" transform="translate(189.424 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11829" data-name="Line 11829" x2="3.376" transform="translate(203.931 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11830" data-name="Line 11830" x2="8.913" transform="translate(210.285 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11831" data-name="Line 11831" x2="7.832" transform="translate(222.175 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11832" data-name="Line 11832" x2="11.845" transform="translate(232.985 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11833" data-name="Line 11833" x2="11.845" transform="translate(309.014 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11834" data-name="Line 11834" x2="8.504" transform="translate(247.809 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11835" data-name="Line 11835" x2="3.182" transform="translate(259.29 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11836" data-name="Line 11836" x2="11.53" transform="translate(265.452 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11837" data-name="Line 11837" x2="3.376" transform="translate(279.959 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11838" data-name="Line 11838" x2="8.913" transform="translate(286.313 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11839" data-name="Line 11839" x2="7.832" transform="translate(298.203 423.009)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3937" data-name="Group 3937">
+            <line id="Line_11840" data-name="Line 11840" x2="13.842" transform="translate(156.957 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11841" data-name="Line 11841" x2="8.389" transform="translate(173.777 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11842" data-name="Line 11842" x2="7.26" transform="translate(185.144 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11843" data-name="Line 11843" x2="5.764" transform="translate(195.382 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11844" data-name="Line 11844" x2="8.979" transform="translate(204.124 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11845" data-name="Line 11845" x2="8.778" transform="translate(216.082 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11846" data-name="Line 11846" x2="9.881" transform="translate(227.837 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11847" data-name="Line 11847" x2="13.84" transform="translate(240.696 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11848" data-name="Line 11848" x2="8.389" transform="translate(257.516 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11849" data-name="Line 11849" x2="7.26" transform="translate(268.882 442.632)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3938" data-name="Group 3938">
+            <line id="Line_11850" data-name="Line 11850" x2="19.481" transform="translate(156.957 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11851" data-name="Line 11851" x2="11.599" transform="translate(179.417 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11852" data-name="Line 11852" x2="4.591" transform="translate(193.994 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11853" data-name="Line 11853" x2="10.195" transform="translate(201.563 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11854" data-name="Line 11854" x2="14.186" transform="translate(214.736 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11855" data-name="Line 11855" x2="19.481" transform="translate(231.9 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11856" data-name="Line 11856" x2="11.599" transform="translate(254.36 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11857" data-name="Line 11857" x2="4.591" transform="translate(268.938 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11858" data-name="Line 11858" x2="19.481" transform="translate(306.844 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11859" data-name="Line 11859" x2="11.599" transform="translate(329.303 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11860" data-name="Line 11860" x2="10.196" transform="translate(276.506 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11861" data-name="Line 11861" x2="14.186" transform="translate(289.68 432.821)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <line id="Line_11862" data-name="Line 11862" y2="35.708" transform="translate(144.928 414.967)" fill="none" stroke="#72caca" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+      <g id="Group_3947" data-name="Group 3947">
+        <rect id="Rectangle_1263" data-name="Rectangle 1263" width="186.009" height="173.892" transform="translate(244.966 465.913)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        <g id="Group_3945" data-name="Group 3945">
+          <g id="Group_3942" data-name="Group 3942">
+            <line id="Line_11863" data-name="Line 11863" x2="131.473" transform="translate(279.452 577.179)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <g id="Group_3941" data-name="Group 3941">
+              <line id="Line_11864" data-name="Line 11864" x2="16.58" transform="translate(279.452 584.358)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11865" data-name="Line 11865" x2="4.774" transform="translate(298.896 584.358)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11866" data-name="Line 11866" x2="6.6" transform="translate(306.916 584.358)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+          <g id="Group_3944" data-name="Group 3944">
+            <line id="Line_11867" data-name="Line 11867" x2="12.248" transform="translate(279.452 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11868" data-name="Line 11868" x2="8.793" transform="translate(294.779 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11869" data-name="Line 11869" x2="3.291" transform="translate(306.651 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11870" data-name="Line 11870" x2="11.922" transform="translate(313.021 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11871" data-name="Line 11871" x2="6.788" transform="translate(387.756 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11872" data-name="Line 11872" x2="3.491" transform="translate(328.023 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11873" data-name="Line 11873" x2="9.216" transform="translate(334.593 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11874" data-name="Line 11874" x2="5.961" transform="translate(346.888 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11875" data-name="Line 11875" x2="9.285" transform="translate(355.929 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11876" data-name="Line 11876" x2="16.383" transform="translate(368.293 521.359)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11877" data-name="Line 11877" x2="14.312" transform="translate(279.452 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11878" data-name="Line 11878" x2="8.673" transform="translate(296.844 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11879" data-name="Line 11879" x2="7.506" transform="translate(308.597 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11880" data-name="Line 11880" x2="5.961" transform="translate(319.183 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11881" data-name="Line 11881" x2="9.285" transform="translate(328.223 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11882" data-name="Line 11882" x2="9.076" transform="translate(340.588 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11883" data-name="Line 11883" x2="8.673" transform="translate(370.134 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11884" data-name="Line 11884" x2="7.506" transform="translate(381.888 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11885" data-name="Line 11885" x2="5.961" transform="translate(392.473 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11886" data-name="Line 11886" x2="14.312" transform="translate(352.743 541.65)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11887" data-name="Line 11887" x2="16.134" transform="translate(279.452 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11888" data-name="Line 11888" x2="9.988" transform="translate(298.665 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11889" data-name="Line 11889" x2="14.772" transform="translate(311.733 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11890" data-name="Line 11890" x2="6.531" transform="translate(329.585 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11891" data-name="Line 11891" x2="10.659" transform="translate(339.196 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11892" data-name="Line 11892" x2="17.254" transform="translate(352.577 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11893" data-name="Line 11893" x2="11.976" transform="translate(372.911 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11894" data-name="Line 11894" x2="18.709" transform="translate(387.966 531.504)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11895" data-name="Line 11895" x2="5.32" transform="translate(279.452 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11896" data-name="Line 11896" x2="5.539" transform="translate(287.851 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11897" data-name="Line 11897" x2="18.96" transform="translate(296.469 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11898" data-name="Line 11898" x2="5.961" transform="translate(318.508 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11899" data-name="Line 11899" x2="14.669" transform="translate(327.548 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11900" data-name="Line 11900" x2="6.354" transform="translate(345.296 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11901" data-name="Line 11901" x2="12.945" transform="translate(371.745 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11902" data-name="Line 11902" x2="11.976" transform="translate(387.769 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11903" data-name="Line 11903" x2="13.937" transform="translate(354.728 551.795)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <g id="Group_3943" data-name="Group 3943">
+              <line id="Line_11904" data-name="Line 11904" x2="16.58" transform="translate(279.452 561.941)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11905" data-name="Line 11905" x2="13.937" transform="translate(299.111 561.941)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11906" data-name="Line 11906" x2="18.96" transform="translate(316.128 561.941)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11907" data-name="Line 11907" x2="5.961" transform="translate(338.167 561.941)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11908" data-name="Line 11908" x2="14.669" transform="translate(347.207 561.941)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3946" data-name="Group 3946">
+          <rect id="Rectangle_1264" data-name="Rectangle 1264" width="173.892" height="173.892" transform="translate(71.074 465.913)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11909" data-name="Line 11909" x2="173.892" y2="173.892" transform="translate(71.074 465.913)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11910" data-name="Line 11910" x1="173.892" y2="173.892" transform="translate(71.074 465.913)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3950" data-name="Group 3950">
+        <g id="Group_3948" data-name="Group 3948">
+          <rect id="Rectangle_1265" data-name="Rectangle 1265" width="45" height="15" transform="translate(195.75 1211.209)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11911" data-name="Line 11911" x2="16.972" transform="translate(209.764 1218.708)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g id="Group_3949" data-name="Group 3949">
+          <rect id="Rectangle_1266" data-name="Rectangle 1266" width="45" height="15" transform="translate(260.75 1211.209)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11912" data-name="Line 11912" x2="16.972" transform="translate(274.764 1218.708)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g id="Group_3975" data-name="Group 3975">
+        <g id="Group_3952" data-name="Group 3952">
+          <line id="Line_11913" data-name="Line 11913" x2="360" transform="translate(70.75 1255.809)" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="1.5"/>
+          <g id="Group_3951" data-name="Group 3951">
+            <line id="Line_11914" data-name="Line 11914" x2="9.765" transform="translate(88.417 1246.733)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <line id="Line_11915" data-name="Line 11915" x2="14.659" transform="translate(70.75 1246.733)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3974" data-name="Group 3974">
+          <line id="Line_11916" data-name="Line 11916" y2="54.296" transform="translate(187.25 1270.106)" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="1.5"/>
+          <line id="Line_11917" data-name="Line 11917" y2="54.296" transform="translate(314.25 1270.106)" fill="none" stroke="#d7dbe0" stroke-miterlimit="10" stroke-width="1.5"/>
+          <g id="Group_3959" data-name="Group 3959">
+            <rect id="Rectangle_1267" data-name="Rectangle 1267" width="15.34" height="3.917" transform="translate(113.75 1271.769)" fill="#72caca"/>
+            <line id="Line_11918" data-name="Line 11918" x2="106" transform="translate(70.75 1313.277)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <g id="Group_3953" data-name="Group 3953">
+              <line id="Line_11919" data-name="Line 11919" x1="3.354" y2="3.346" transform="translate(173.396 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <path id="Path_967" data-name="Path 967" d="M173.617,1318.872h3.133V1322" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3954" data-name="Group 3954">
+              <line id="Line_11920" data-name="Line 11920" x2="14.959" transform="translate(70.75 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11921" data-name="Line 11921" x2="3.73" transform="translate(87.947 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11922" data-name="Line 11922" x2="7.162" transform="translate(94.214 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3957" data-name="Group 3957">
+              <g id="Group_3955" data-name="Group 3955">
+                <line id="Line_11923" data-name="Line 11923" x1="6.651" transform="translate(163.921 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11924" data-name="Line 11924" x1="4.103" transform="translate(156.811 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11925" data-name="Line 11925" x1="7.013" transform="translate(146.79 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11926" data-name="Line 11926" x1="6.467" transform="translate(137.315 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11927" data-name="Line 11927" x1="10.691" transform="translate(123.617 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11928" data-name="Line 11928" x1="6.86" transform="translate(113.75 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <g id="Group_3956" data-name="Group 3956">
+                <line id="Line_11929" data-name="Line 11929" x1="6.473" transform="translate(159.565 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11930" data-name="Line 11930" x1="6.397" transform="translate(150.161 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11931" data-name="Line 11931" x1="16.165" transform="translate(130.988 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11932" data-name="Line 11932" x1="5.986" transform="translate(121.994 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11933" data-name="Line 11933" x1="5.237" transform="translate(113.749 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <line id="Line_11934" data-name="Line 11934" x2="11.564" transform="translate(113.75 1294.639)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3958" data-name="Group 3958">
+              <rect id="Rectangle_1268" data-name="Rectangle 1268" width="30" height="30" transform="translate(70.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11935" data-name="Line 11935" x2="30" y2="30" transform="translate(70.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11936" data-name="Line 11936" x1="30" y2="30" transform="translate(70.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+          <g id="Group_3966" data-name="Group 3966">
+            <rect id="Rectangle_1269" data-name="Rectangle 1269" width="15.34" height="3.917" transform="translate(240.75 1271.769)" fill="#72caca"/>
+            <line id="Line_11937" data-name="Line 11937" x2="106" transform="translate(197.75 1313.277)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <g id="Group_3960" data-name="Group 3960">
+              <line id="Line_11938" data-name="Line 11938" x1="3.354" y2="3.346" transform="translate(300.396 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <path id="Path_968" data-name="Path 968" d="M300.617,1318.872h3.133V1322" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3961" data-name="Group 3961">
+              <line id="Line_11939" data-name="Line 11939" x2="14.959" transform="translate(197.75 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11940" data-name="Line 11940" x2="3.73" transform="translate(214.947 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11941" data-name="Line 11941" x2="7.162" transform="translate(221.214 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3964" data-name="Group 3964">
+              <g id="Group_3962" data-name="Group 3962">
+                <line id="Line_11942" data-name="Line 11942" x1="6.651" transform="translate(290.921 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11943" data-name="Line 11943" x1="4.103" transform="translate(283.811 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11944" data-name="Line 11944" x1="7.013" transform="translate(273.79 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11945" data-name="Line 11945" x1="6.467" transform="translate(264.315 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11946" data-name="Line 11946" x1="10.691" transform="translate(250.617 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11947" data-name="Line 11947" x1="6.86" transform="translate(240.75 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <g id="Group_3963" data-name="Group 3963">
+                <line id="Line_11948" data-name="Line 11948" x1="6.473" transform="translate(286.565 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11949" data-name="Line 11949" x1="6.397" transform="translate(277.161 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11950" data-name="Line 11950" x1="16.165" transform="translate(257.988 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11951" data-name="Line 11951" x1="5.986" transform="translate(248.994 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11952" data-name="Line 11952" x1="5.237" transform="translate(240.749 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <line id="Line_11953" data-name="Line 11953" x2="11.564" transform="translate(240.75 1294.639)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3965" data-name="Group 3965">
+              <rect id="Rectangle_1270" data-name="Rectangle 1270" width="30" height="30" transform="translate(197.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11954" data-name="Line 11954" x2="30" y2="30" transform="translate(197.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11955" data-name="Line 11955" x1="30" y2="30" transform="translate(197.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+          <g id="Group_3973" data-name="Group 3973">
+            <rect id="Rectangle_1271" data-name="Rectangle 1271" width="15.34" height="3.917" transform="translate(367.75 1271.769)" fill="#72caca"/>
+            <line id="Line_11956" data-name="Line 11956" x2="106" transform="translate(324.75 1313.277)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            <g id="Group_3967" data-name="Group 3967">
+              <line id="Line_11957" data-name="Line 11957" x1="3.354" y2="3.346" transform="translate(427.396 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <path id="Path_969" data-name="Path 969" d="M427.617,1318.872h3.133V1322" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3968" data-name="Group 3968">
+              <line id="Line_11958" data-name="Line 11958" x2="14.959" transform="translate(324.75 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11959" data-name="Line 11959" x2="3.73" transform="translate(341.947 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11960" data-name="Line 11960" x2="7.162" transform="translate(348.214 1318.872)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3971" data-name="Group 3971">
+              <g id="Group_3969" data-name="Group 3969">
+                <line id="Line_11961" data-name="Line 11961" x1="6.651" transform="translate(417.921 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11962" data-name="Line 11962" x1="4.103" transform="translate(410.811 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11963" data-name="Line 11963" x1="7.013" transform="translate(400.79 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11964" data-name="Line 11964" x1="6.467" transform="translate(391.315 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11965" data-name="Line 11965" x1="10.691" transform="translate(377.617 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11966" data-name="Line 11966" x1="6.86" transform="translate(367.75 1281.415)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <g id="Group_3970" data-name="Group 3970">
+                <line id="Line_11967" data-name="Line 11967" x1="6.473" transform="translate(413.565 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11968" data-name="Line 11968" x1="6.397" transform="translate(404.161 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11969" data-name="Line 11969" x1="16.165" transform="translate(384.988 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11970" data-name="Line 11970" x1="5.986" transform="translate(375.994 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+                <line id="Line_11971" data-name="Line 11971" x1="5.237" transform="translate(367.749 1288.027)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              </g>
+              <line id="Line_11972" data-name="Line 11972" x2="11.564" transform="translate(367.75 1294.639)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+            <g id="Group_3972" data-name="Group 3972">
+              <rect id="Rectangle_1272" data-name="Rectangle 1272" width="30" height="30" transform="translate(324.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11973" data-name="Line 11973" x2="30" y2="30" transform="translate(324.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+              <line id="Line_11974" data-name="Line 11974" x1="30" y2="30" transform="translate(324.75 1270.106)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_3982" data-name="Group 3982">
+        <g id="Group_3978" data-name="Group 3978">
+          <g id="Group_3976" data-name="Group 3976">
+            <line id="Line_11975" data-name="Line 11975" x2="1.504" transform="translate(248.361 1199.401)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3977" data-name="Group 3977">
+            <line id="Line_11976" data-name="Line 11976" x2="1.504" transform="translate(251.369 1199.401)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Group_3981" data-name="Group 3981">
+          <g id="Group_3979" data-name="Group 3979">
+            <line id="Line_11977" data-name="Line 11977" x2="1.504" transform="translate(248.361 1202.409)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+          <g id="Group_3980" data-name="Group 3980">
+            <line id="Line_11978" data-name="Line 11978" x2="1.504" transform="translate(251.369 1202.409)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_1291" data-name="Rectangle 1291" width="500" height="1853.19" transform="translate(0.75 0.75)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <rect id="Rectangle_1291-2" data-name="Rectangle 1291" width="500" height="1853.19" transform="translate(0.75 0.75)" fill="none" stroke="#f7f7f7" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="498.4" height="1851.59" transform="translate(1.55 1.55)" fill="none" stroke="#616d7f" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
