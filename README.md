@@ -43,9 +43,28 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-- [Insert Prerequisite 1]
-- [Insert Prerequisite 2]
-- [Insert Prerequisite 3]
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Operating System**: Linux-based operating system (e.g., Ubuntu 20.04, CentOS 7, Fedora 38).
+- **Kernel Version**: Linux kernel version 5.4 or later.
+- **Compiler**:
+  - GCC (GNU Compiler Collection) installed (version 10 or later).
+  - Clang (C/C++ compiler) installed (version 10 or later).
+- **Python**: Python 3.8 or later installed.
+- **C Programming Language**: GCC (version 10 or later).
+- **Rust Programming Language**: Rust (version 1.55 or later).
+
+
+Ensure that these prerequisites accurately reflect what is needed for your project to run smoothly.
+
+Users who want to install your project will refer to this section of the README to ensure they have the necessary prerequisites installed before proceeding with the installation.
+
 
 ### Installation
 
