@@ -43,12 +43,6 @@ These instructions will help you get a copy of the project up and running on you
 
 ### Prerequisites
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-### Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 
 - **Operating System**: Linux-based operating system (e.g., Ubuntu 20.04, CentOS 7, Fedora 38).
@@ -68,13 +62,142 @@ Users who want to install your project will refer to this section of the README 
 
 ### Installation
 
-A step-by-step guide on how to install and configure the ChainFruit AI kernel on your system can be found in the [Installation Guide](docs/installation.md).
+Certainly, here's the installation section from the README.md file consolidated into a single Markdown (MD) file with headings and installation details:
+
+```markdown
+# Installation Guide
+
+Follow these steps to install ChainFruit AI on your system:
+
+## Clone the Repository
+
+```shell
+git clone https://github.com/YourOrganization/ChainFruitAI.git
+```
+
+## Navigate to the Project Directory
+
+```shell
+cd ChainFruitAI
+```
+
+## Install Required Dependencies
+
+### GCC and Clang
+
+Depending on your operating system, you can typically install GCC and Clang using your system's package manager:
+
+- For Ubuntu:
+
+  ```shell
+  sudo apt-get install gcc clang
+  ```
+
+- For CentOS:
+
+  ```shell
+  sudo yum install gcc clang
+  ```
+
+### Python
+
+Make sure you have Python 3.x installed. You can download it from the [official Python website](https://www.python.org/downloads/) or use your system's package manager.
+
+### Machine Learning Libraries
+
+Install the required Python libraries using `pip`:
+
+```shell
+pip install tensorflow pytorch scikit-learn
+```
+
+### C Programming Language
+
+If you don't have GCC for C installed, you can install it using your system's package manager:
+
+- For Ubuntu:
+
+  ```shell
+  sudo apt-get install gcc
+  ```
+
+- For CentOS:
+
+  ```shell
+  sudo yum install gcc
+  ```
+
+### Rust Programming Language
+
+Install Rust from the official website:
+
+```shell
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+## Build and Install ChainFruit AI
+
+Follow the build and installation instructions specific to the ChainFruit AI project, which can be found in the [Installation Guide](docs/installation.md).
+
+## Configuration
+
+Once installed, follow the configuration instructions in the [Configuration Guide](docs/installation.md) to set up and customize ChainFruit AI according to your needs.
+
+```
+
+This consolidated installation guide provides all the necessary steps and details for users to install ChainFruit AI on their systems. You can include this in a separate `INSTALL.md` file within your project's documentation for easier reference.
 
 ### Configuration
 
-- [Configuration Option 1: Describe how to configure option 1.]
-- [Configuration Option 2: Describe how to configure option 2.]
-- [Configuration Option 3: Describe how to configure option 3.]
+Certainly, here's the configuration section from the README.md file consolidated into a single Markdown (MD) file with headings and configuration details:
+
+```markdown
+# Configuration Guide
+
+Once you have successfully installed ChainFruit AI, you can configure and customize it according to your specific needs. Follow these steps to configure the software:
+
+## Basic Configuration
+
+1. **Navigate to the ChainFruit AI Installation Directory**:
+
+   ```shell
+   cd /path/to/ChainFruitAI
+   ```
+
+2. **Edit Configuration Files**:
+
+   Locate the configuration files in the `config` directory and modify them as needed. These files control various aspects of ChainFruit AI, such as:
+
+   - `cpu_scheduler.conf`: Configure CPU scheduling parameters.
+   - `memory_manager.conf`: Customize memory management settings.
+   - `io_scheduler.conf`: Adjust I/O scheduling parameters.
+   - `power_management.conf`: Configure energy-saving settings.
+
+3. **Save Your Changes**:
+
+   After making configuration changes, save the files.
+
+## Advanced Configuration
+
+For advanced users, ChainFruit AI offers additional configuration options and settings. You can explore these options in the advanced configuration guide located in [Advanced Configuration Guide](docs/advanced-configuration.md).
+
+## Testing Configuration
+
+To ensure that your configuration changes work as intended, consider running test scenarios or simulations. Refer to the testing guide in [Testing Guide](docs/testing.md) for information on how to test ChainFruit AI with your custom configuration.
+
+## Applying Configuration
+
+After configuring ChainFruit AI to your satisfaction, apply the changes by following the instructions specific to your environment and use case. ChainFruit AI will use your custom configuration to optimize and enhance the performance of your operating system kernel.
+
+## Troubleshooting
+
+If you encounter issues during the configuration process or experience unexpected behavior, please consult the troubleshooting guide in [Troubleshooting Guide](docs/troubleshooting.md) or reach out to our support team for assistance.
+
+ChainFruit AI provides a flexible and powerful framework for kernel optimization through AI. By configuring it to match your system's requirements, you can achieve optimal performance and resource management.
+```
+
+This consolidated configuration guide provides users with a step-by-step approach to configuring ChainFruit AI. You can include this in a separate `CONFIGURATION.md` file within your project's documentation for easier reference.
+You have now successfully installed ChainFruit AI on your system. Enjoy optimizing your kernel with AI-powered magic!
 
 ## Usage
 
