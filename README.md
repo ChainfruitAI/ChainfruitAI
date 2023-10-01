@@ -55,6 +55,4 @@ Support
 If you encounter any issues or have questions, please create a GitHub issue or reach out to our community for support.
 
 
-Remember to replace `[Insert Prerequisite X]`, `[YourUsername]`, and other placeholders with your project-specific information. Additionally, create the necessary files (e.g., `CONTRIBUTING.md`, `LICENSE`, `docs/installation.md`) mentioned in the README as part of your project's setup.
-
 
